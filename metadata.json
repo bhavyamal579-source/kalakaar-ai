@@ -1,0 +1,6 @@
+{
+  "name": "ContentOS AI",
+  "description": "AI-powered social media content creation and management SaaS. One idea. Every platform. Ready to publish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
